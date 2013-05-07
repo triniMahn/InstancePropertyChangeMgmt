@@ -1,0 +1,5 @@
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\InstancePropertyChangeMgmt\InstancePropertyChangeMgmt\bin\Debug\InstancePropertyChangeMgmt.exe
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\InstancePropertyChangeMgmt\InstancePropertyChangeMgmt\bin\Debug\InstancePropertyChangeMgmt.pdb
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\InstancePropertyChangeMgmt\InstancePropertyChangeMgmt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\InstancePropertyChangeMgmt\InstancePropertyChangeMgmt\obj\x86\Debug\InstancePropertyChangeMgmt.exe
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\InstancePropertyChangeMgmt\InstancePropertyChangeMgmt\obj\x86\Debug\InstancePropertyChangeMgmt.pdb
